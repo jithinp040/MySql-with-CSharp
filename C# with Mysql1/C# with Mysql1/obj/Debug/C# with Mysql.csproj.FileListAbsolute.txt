@@ -1,0 +1,3 @@
+D:\Internship\Vs project\Visual Studio 2008\Projects\WindowsFormsApplication2\C# with MySql\bin\Debug\WindowsFormsApplication2.exe.config
+D:\Internship\Vs project\Visual Studio 2008\Projects\WindowsFormsApplication2\C# with MySql\obj\Debug\WindowsFormsApplication2.exe
+D:\Internship\Vs project\Visual Studio 2008\Projects\WindowsFormsApplication2\C# with MySql\obj\Debug\WindowsFormsApplication2.pdb
